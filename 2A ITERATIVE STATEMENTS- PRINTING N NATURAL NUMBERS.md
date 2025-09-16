@@ -24,14 +24,14 @@ To create a Python program for printing `n` natural numbers using a `for` loop.
 #Reg.NO
 #Name
 #Write your Code here
-
+ n=int(input())
+print("Natural Numbers are :")
+for i in range(1,n+1):
+    print(i)
 ```
 ### OUTPUT
-```
+<img width="914" height="595" alt="image" src="https://github.com/user-attachments/assets/75b9cbcb-34aa-4771-9090-06863c71bf2c" />
 
-```
 ### RESULT
-```
-
-```
+The program display the n natural numbers using for loop.
 
